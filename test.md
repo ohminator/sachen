@@ -4,7 +4,7 @@
 #### 3. Reflexion und Erweiterung (Kritische Denkweise):<br> a) Welche Vorteile bietet die Verwendung von Arrays in diesem Programm? Welche Alternativen gäbe es, und welche Vor- und Nachteile hätten diese?<br> b) Wie könnte das Programm erweitert werden, um weitere Funktionalitäten zu unterstützen (z.B. Speichern der Ergebnisse über mehrere Durchgänge, Berechnung von Durchschnittswerten, Visualisierung der Ergebnisse)? Beschreiben Sie detailliert, wie Sie diese Erweiterungen implementieren würden.<br> c) Diskutieren Sie die Bedeutung von Objektorientierung in diesem Kontext. Welche Vorteile bietet die Verwendung der Klasse Schuetze? Wie könnte das Programm weiter objektorientiert gestaltet werden?<br>
 <br>
 
-## --------------------------------------<br>
+## -------------------------------<br>
 
 Aufgabe: Analyse und Erweiterung des Sportschützen-Programms
 
